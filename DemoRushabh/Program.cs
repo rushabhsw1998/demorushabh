@@ -13,7 +13,7 @@ namespace DemoRushabh
             int j = 10;
             
             Console.WriteLine("Enter Number",+ j);
-            if (j > 0)
+            if (j > 0 && j <101)
             {
                 int result = j / 3;
                 Console.WriteLine(result);
