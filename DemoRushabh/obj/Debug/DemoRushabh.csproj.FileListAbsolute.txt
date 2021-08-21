@@ -1,0 +1,7 @@
+C:\Users\SiD\source\repos\DemoRushabh\DemoRushabh\obj\Debug\DemoRushabh.csprojAssemblyReference.cache
+C:\Users\SiD\source\repos\DemoRushabh\DemoRushabh\obj\Debug\DemoRushabh.csproj.CoreCompileInputs.cache
+C:\Users\SiD\source\repos\DemoRushabh\DemoRushabh\bin\Debug\DemoRushabh.exe.config
+C:\Users\SiD\source\repos\DemoRushabh\DemoRushabh\bin\Debug\DemoRushabh.exe
+C:\Users\SiD\source\repos\DemoRushabh\DemoRushabh\bin\Debug\DemoRushabh.pdb
+C:\Users\SiD\source\repos\DemoRushabh\DemoRushabh\obj\Debug\DemoRushabh.exe
+C:\Users\SiD\source\repos\DemoRushabh\DemoRushabh\obj\Debug\DemoRushabh.pdb
